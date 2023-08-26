@@ -1,4 +1,4 @@
-# exercicio-aula6-spring-Next
+# Exercício-aula6-spring-Next
 
 
 # spring-aula6
